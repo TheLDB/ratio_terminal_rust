@@ -9,3 +9,5 @@ edition = "2021"
 serenity = { version="0.10", default-features = false, features = ["client", "gateway", "rustls_backend", "model"]}
 tokio = { version = "1.15.0", features = ["full"] }
 dotenv = "0.15.0"
+regex = "1"
+rand = "0.8.4"
