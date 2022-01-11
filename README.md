@@ -1,11 +1,11 @@
-# Ratio Terminal
+# Ratio Terminal (But better)
 
-Remember Twitter ratios? Well, here these are for discord.
+Remember Ratio Terminal from [idkwuu](https://github.com/idkwuu)? Well, heres ratio terminal but written in rust (better)
 
-Requires Deno (tested with v1.17.2).
+Requires Rust (tested with v1.57.0).
 
- `deno run --allow-net --allow-read --allow-env=RATIO_TERMINAL_TOKEN main.ts` 
+ `cargo run` 
 
-[Add this ratio](https://discord.com/api/oauth2/authorize?client_id=893355749441417287&permissions=67584&scope=bot) (keep in mind this bot is not verified, so if the bot reaches 75 servers, I'll shut it down and make a new one)
+Add this ratio *soon*
 
-![Ratio](https://user-images.githubusercontent.com/42050584/140654544-6bc063e6-38ce-44d4-a151-be25f62eca1b.png)
+**plz dont kill me idkwuu this is just for fun**
