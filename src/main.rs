@@ -55,6 +55,11 @@ impl EventHandler for Handler {
                 println!("{:?}", why)
             }
         }
+        else if msg.content == "<@!930246502675267584>" {
+            if let Err(why) = msg.channel_id.send_message(&ctx.http, |m| m.content("who dare tag me?")).await {
+                println!("{:?}", why);
+            }
+        }
     }
 
     async fn ready(&self, _: Context, ready: Ready) {
