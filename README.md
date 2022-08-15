@@ -7,8 +7,4 @@ Remember Ratio Terminal from [idkwuu](https://github.com/idkwuu)? Well, heres ra
 
 Requires Rust (tested with v1.57.0).
 
- `cargo run` 
-
-Add this ratio *soon*
-
-**plz dont kill me idkwuu this is just for fun**
+ `cargo run`
